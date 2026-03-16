@@ -41,7 +41,7 @@ This analysis focuses on:
 
 ---
 
-# Technologies Used 🧰
+# Technologies Used 
 
 * Python
 * Pandas
@@ -133,7 +133,7 @@ Result:
 
 ---
 
-# Machine Learning Models 🤖
+# Machine Learning Models 
 
 Two predictive models were implemented:
 
