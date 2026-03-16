@@ -1,4 +1,4 @@
-# FIFA 20 Player Data Analysis ⚽📊
+# FIFA 20 Player Data Analysis 
 
 This project explores and analyses the **FIFA 20 player dataset** using Python.
 The goal is to clean the data, perform exploratory analysis, test statistical hypotheses, and build simple predictive models based on player attributes.
